@@ -14,7 +14,7 @@ Academi - a responsive moodle theme developed by LMSACE
 
 <li>Theme Version : &nbsp; 4.5</li>
 
-<li>Relesed on : &nbsp; 22 April 2025</li>
+<li>Relesed on : &nbsp; 03 May 2025</li>
 
 <li>Authors : &nbsp; LMSACE Dev Team</li>
 
@@ -62,15 +62,11 @@ Recent versions of all modern browsers
 
 <li>Login as site administrator</li>
 
-<li>Go to Site administration -> Appearance -> Themes -> Theme selector</li>
+<li>Go to Site administration -> Appearance -> Themes</li>
 
-<li>Click the "Change theme" button for device type as "Default"</li>
+<li>It will list all the available themes</li>
 
-<li>It will list all the available themes for "Default device"</li>
-
-<li>Then click "Use theme" button on "Academi theme"</li>
-
-<li>Next click the "Continue" button ,thats it.</li>
+<li>Then click "Select theme" button on "Academi theme"</li>
 
 <li>Cheers, you have done it !!!</li>
 

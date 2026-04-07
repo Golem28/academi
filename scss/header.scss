@@ -131,11 +131,16 @@
         .dropdown-menu {
             border-radius: 5px;
             .carousel .carousel-inner .carousel-item a {
+                height: auto;
                 padding: 10px 15px;
                 position: relative;
                 &:after {
                     top: 14px;
                 }
+            }
+            .submenu .header .icon {
+                background: none;
+                box-shadow: none;
             }
         }
     }
@@ -324,8 +329,12 @@
 #header {
     .editmode-switch-form {
         margin-left: 10px;
-        .input-group label {
-            color: $white !important;
+        .input-group {
+            flex-wrap: nowrap;
+            align-items: center;
+            label {
+                color: $white !important;
+            }
         }
         .custom-control {
             .custom-control-input {
@@ -518,6 +527,8 @@
                         height: auto;
                         max-height: 90px;
                         object-fit: contain;
+                        background: none;
+                        box-shadow: none;
                     }
                 }
             }

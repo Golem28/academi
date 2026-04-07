@@ -1084,6 +1084,9 @@ div.backup-section + form {
         .fitem .felement {
             margin-left: 0;
         }
+        fieldset .fcontainer .fitem .felement > a {
+            height: auto;
+        }
     }
     .form-item {
         .form-setting,
